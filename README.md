@@ -1,14 +1,19 @@
-### Hi there 👋
+나의 이름은 **천경호** 입니다. 🍒
 
-**kyungho333/kyungho333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+저는 3학년에 재학중인 학생입니다. ❤️
 
-Here are some ideas to get you started:
+나의 취미
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 춤추기 :dancer:
+- 노래듣기 :notes:
+- 요리하기 :fork_and_knife:
+- 그림그리기
+- 옷 제작하기
+
+나의 워너비 자격증
+
+| 자격증 이름 | 취득일 |
+|--|--|
+| ITQ | 2022년 6월 7일 |
+| 웹디자인 기능사 | 2023년 7월 7일 |
+| 정보처리 기능사 | 2023년 7월 24일 |
